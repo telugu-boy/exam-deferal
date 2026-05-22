@@ -1,2 +1,2 @@
-# exam-deferal
-Making exam deferal easy for macewan students and faculty
+# exam-deferral
+Making exam deferral easy for MacEwan students and faculty
